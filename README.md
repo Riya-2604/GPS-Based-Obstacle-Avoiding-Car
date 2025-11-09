@@ -1,6 +1,7 @@
 <!-- TITLE -->
 <h1 align="center">
-  <b>GPS-Based Obstacle Avoiding Car</b>
+  <b> GPS-Based Obstacle Avoiding Car</b><br>
+  <sub><b>2nd Year Mini Project – ECE Department</b></sub>
 </h1>
 
 <!-- HEADER -->
@@ -41,7 +42,7 @@ It integrates **ultrasonic sensing** for obstacle detection and **Arduino-contro
 ### Circuit Diagram
 <p align="center">
 
-  <img width="879" height="621" alt="image" src="https://github.com/user-attachments/assets/34adfc19-81c8-4a14-8241-fedf639ef34e" />
+  <img width="679" height="421" alt="image" src="https://github.com/user-attachments/assets/34adfc19-81c8-4a14-8241-fedf639ef34e" />
 
 </p>
 
@@ -83,7 +84,7 @@ It integrates **ultrasonic sensing** for obstacle detection and **Arduino-contro
 ## Hardware Setup
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0c3c1a7e-54a1-4005-8c58-5d94b54408c5" width="400">
+  <img src="https://github.com/user-attachments/assets/0c3c1a7e-54a1-4005-8c58-5d94b54408c5" width="300">
 </p>
 
 **Assembly Overview:**
@@ -99,4 +100,9 @@ It integrates **ultrasonic sensing** for obstacle detection and **Arduino-contro
 
 - Programmed using **Arduino IDE**
 - Language: **C/C++**
+---
 
+## Collaborator
+
+- Mohd. Faiz (https://www.linkedin.com/in/mohd-faiz-710661353)
+- Riya Verma (https://www.linkedin.com/in/riya-verma-641230317)
